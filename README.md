@@ -1,2 +1,5 @@
-# r_so_multi_warehouse
-This Odoo module allows users to do a Sale Order from multiple warehouses rather than the default which is only one warehouse
+# Sale Order Warehouse by line
+This Odoo adds the feature to select a warehouse in each sale order line.
+
+
+For more information and support visit and contact us on https://www.risolto.co.uk/contact
